@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: #00DBDE;
+background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+
+  }
+
+.main_user_block{
+    max-width: 500px;
+    background-image: linear-gradient( 135deg, #FD6E6A 10%, #FFC600 100%);
+    padding: 10px;
+    border-style: groove;
+    color: #090707;
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    display: inline-block;
+    margin:auto;
+    border-radius: 5px;
+}
+#portal{
+  font-size:300%;
+  font-family: Stencil;
+}
+#user{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+
+}
+#admin{
+  position: fixed;
+  top: 50%;
+  left: 25%;
+}
+
+.login_button{
+  background-color: #060194; /* white */
+  border: none;
+  border-radius: 5px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  padding: 15px;
+}

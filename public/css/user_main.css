@@ -1,0 +1,85 @@
+  body
+  {
+    background-image: linear-gradient( 102.4deg,  rgba(253,189,85,1) 7.8%, rgba(249,131,255,1) 100.3% );
+  }
+
+  .image_user{
+    float: right;
+    padding-right: 5%;
+  }
+  
+  .heading{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+  }
+  .main_header{
+    text-align: center;
+  }
+  
+.right {
+  background-image: linear-gradient( 109.6deg,  rgba(254,253,205,1) 11.2%, rgba(163,230,255,1) 91.1% );padding: 10px;
+    padding: 10px;
+    border-style: dotted;
+    color: black;
+    display: block;
+    margin-left: 100px;
+    width: auto;
+    height: 50%;
+} 
+#Result{
+  overflow-x: hidden; 
+  overflow-x: auto; 
+  text-align:justify;
+}
+
+.left {
+  background-image: linear-gradient( 109.6deg,  rgba(254,253,205,1) 11.2%, rgba(163,230,255,1) 91.1% );padding: 10px;
+    padding: 10px;
+    border-style: dotted;
+    color: black;
+    width: 60%;
+    height: 50%;
+    float: left;
+    display: inline-block;
+    margin:auto;
+}
+  
+  #portal{
+    font-size:300%;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+  }
+  
+  #log_button {
+    width: 85px;
+    background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+  }
+  
+  .BUTTON{
+    font-size: 15px;
+    background-color: #FA8BFF;
+background-image: linear-gradient(45deg, #FA8BFF 0%, #2BD2FF 52%, #2BFF88 90%);
+    padding: 15px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  
+@import url('https://fonts.googleapis.com/css?family=Bangers');
+*,*::before,*::after{
+  margin:0;
+  box-sizing:border-box;
+}
+
+#header-file{
+    margin: 50px;
+}
+
+body{
+  margin: 10px;
+  font-family: 'Bangers', cursive;
+}
